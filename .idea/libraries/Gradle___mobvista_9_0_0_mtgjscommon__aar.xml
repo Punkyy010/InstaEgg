@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :mobvista-9.0.0-mtgjscommon:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-mtgjscommon.aar/a572a0ace9320764ad393b0db1be3f08/jars/libs/classes-2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-mtgjscommon.aar/a572a0ace9320764ad393b0db1be3f08/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-mtgjscommon.aar/a572a0ace9320764ad393b0db1be3f08/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

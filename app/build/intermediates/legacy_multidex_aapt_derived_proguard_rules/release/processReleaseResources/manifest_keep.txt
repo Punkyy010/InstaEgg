@@ -1,0 +1,2 @@
+# Referenced at C:\Users\stoic\Documents\egg_game_v69\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:48
+-keep class android.support.multidex.MultiDexApplication { <init>(); }

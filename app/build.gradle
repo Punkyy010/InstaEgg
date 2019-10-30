@@ -1,0 +1,60 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.BuzzStudio.InstaEgg"
+        minSdkVersion 16
+        targetSdkVersion 28
+        multiDexEnabled true
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+        ndk {
+            moduleName "player_shared"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+   // implementation 'com.google.android.gms:play-services:+'
+    implementation 'com.google.android.gms:play-services-plus:16.0.0'
+    implementation 'com.google.android.gms:play-services-games:16.0.0'
+    implementation 'com.google.android.gms:play-services-ads:17.1.2'
+    implementation 'com.google.android.gms:play-services-location:16.0.0'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    // More deps here //
+    implementation name: 'adcolony-3.3.4', ext: 'aar'
+    implementation 'com.squareup.picasso:picasso:2.5.2' //for Inmobi
+    implementation name: 'mobvista-9.0.0-alphab', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-common', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-interstitial', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-interstitialvideo', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-mtgdownloads', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-mtgjscommon', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-mtgnative', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-nativeex', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-playercommon', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-reward', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-videocommon', ext: 'aar'
+    implementation name: 'mobvista-9.0.0-videojs', ext: 'aar'
+    implementation name: 'ogury-3.0.13', ext: 'aar'
+
+    implementation 'com.google.firebase:firebase-core:16.0.6'
+    //implementation 'com.firebaseui:firebase-ui-auth:3.3.0'
+   // implementation 'com.google.firebase:firebase-appindexing'
+}

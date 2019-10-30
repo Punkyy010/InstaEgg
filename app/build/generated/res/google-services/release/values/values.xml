@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">47298297989-g3j2stc2nnaae181olb1uk7qujmhs4c6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://instaegg-61783732.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">47298297989</string>
+    <string name="google_api_key" translatable="false">AIzaSyAH-8PBW6oykzrIkW3p08vm_WvBurDXyqE</string>
+    <string name="google_app_id" translatable="false">1:47298297989:android:fb54664adcbd547f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAH-8PBW6oykzrIkW3p08vm_WvBurDXyqE</string>
+    <string name="google_storage_bucket" translatable="false">instaegg-61783732.appspot.com</string>
+    <string name="project_id" translatable="false">instaegg-61783732</string>
+</resources>

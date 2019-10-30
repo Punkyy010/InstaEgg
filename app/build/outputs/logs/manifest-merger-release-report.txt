@@ -1,0 +1,1198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\ac080dfc508a0770f5dc05c0bf92ee0f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\d2e17b9da179c7419bd7803c74eb9b30\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.1.2.aar\9068b1e5c93ee1b78482d0ced87f8e91\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\e291446a2eb6e558276f2d11baf838cb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a79adf8edcb91d40faf378c28eb5d921\AndroidManifest.xml:17:1-22:12
+MERGED from [:adcolony-3.3.4:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\adcolony-3.3.4.aar\89cd87919461b5b33cfff6474690d55d\AndroidManifest.xml:2:1-13:12
+MERGED from [:mobvista-9.0.0-alphab:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-alphab.aar\73686aaec1cff7466aef901c24c92a92\AndroidManifest.xml:2:1-14:12
+MERGED from [:mobvista-9.0.0-common:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-common.aar\565d71e3c3c4896fcd5291e82a3afe4e\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-interstitial:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitial.aar\6e364240dd92524c0350f97d67eb5fba\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-interstitialvideo:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitialvideo.aar\29eb6331e440a61eb2d1f443cebacf71\AndroidManifest.xml:2:1-11:12
+MERGED from [:mobvista-9.0.0-mtgdownloads:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgdownloads.aar\73d696c6079b8b5590ae7bffc3d93874\AndroidManifest.xml:2:1-14:12
+MERGED from [:mobvista-9.0.0-mtgjscommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgjscommon.aar\a572a0ace9320764ad393b0db1be3f08\AndroidManifest.xml:2:1-14:12
+MERGED from [:mobvista-9.0.0-mtgnative:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgnative.aar\50d09b2dc45bf5bc96d66772485b2599\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-nativeex:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-nativeex.aar\c990969f9da7fff107f10db6e66b4b44\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-playercommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-playercommon.aar\695ebfa3bc53f2cc517dee8a079f729d\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-reward:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-reward.aar\e154f5c82e76ef6b25da9ed0b805219d\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-videocommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videocommon.aar\a33ee527390ebc9b508985adcecb6cc5\AndroidManifest.xml:2:1-15:12
+MERGED from [:mobvista-9.0.0-videojs:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videojs.aar\f77bc68bc62b51009dd889e9950767e2\AndroidManifest.xml:2:1-11:12
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\ba6af66884e4fb94bc1593ce898fa1f2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\a54822d6394dd5eb93a5568718e93c3a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\b31bba6431460b525800094d707e937c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\484559e9dcbe63996a4a7f73bb6c18d0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1e8bdd3c4f0cb30169976771f879635e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\45664e464f3fe04222cc786e2dee5f37\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1e1bb6c1a54ea3413ad9df4061e18846\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.2.aar\2952372a6053782dced1469c0fe88497\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\763c719175c06aa76165ac287ed99d20\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\eb1d4e877da80fd984d019ce9fd16f97\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\602fe31fabf8e24cf1c54a3fa13e5b15\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7ad7f08f3c68940766b6ab876a501d94\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.2.aar\8da4d8dd7e33a20b5af41af662ef07ed\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:1-368:12
+	package
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:8:5-338:19
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\ac080dfc508a0770f5dc05c0bf92ee0f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\ac080dfc508a0770f5dc05c0bf92ee0f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\d2e17b9da179c7419bd7803c74eb9b30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\d2e17b9da179c7419bd7803c74eb9b30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\e291446a2eb6e558276f2d11baf838cb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\e291446a2eb6e558276f2d11baf838cb\AndroidManifest.xml:7:5-20
+MERGED from [:mobvista-9.0.0-alphab:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-alphab.aar\73686aaec1cff7466aef901c24c92a92\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-alphab:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-alphab.aar\73686aaec1cff7466aef901c24c92a92\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-common:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-common.aar\565d71e3c3c4896fcd5291e82a3afe4e\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-common:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-common.aar\565d71e3c3c4896fcd5291e82a3afe4e\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-interstitial:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitial.aar\6e364240dd92524c0350f97d67eb5fba\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-interstitial:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitial.aar\6e364240dd92524c0350f97d67eb5fba\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-mtgdownloads:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgdownloads.aar\73d696c6079b8b5590ae7bffc3d93874\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-mtgdownloads:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgdownloads.aar\73d696c6079b8b5590ae7bffc3d93874\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-mtgjscommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgjscommon.aar\a572a0ace9320764ad393b0db1be3f08\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-mtgjscommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgjscommon.aar\a572a0ace9320764ad393b0db1be3f08\AndroidManifest.xml:11:5-12:19
+MERGED from [:mobvista-9.0.0-mtgnative:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgnative.aar\50d09b2dc45bf5bc96d66772485b2599\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-mtgnative:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgnative.aar\50d09b2dc45bf5bc96d66772485b2599\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-nativeex:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-nativeex.aar\c990969f9da7fff107f10db6e66b4b44\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-nativeex:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-nativeex.aar\c990969f9da7fff107f10db6e66b4b44\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-playercommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-playercommon.aar\695ebfa3bc53f2cc517dee8a079f729d\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-playercommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-playercommon.aar\695ebfa3bc53f2cc517dee8a079f729d\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-reward:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-reward.aar\e154f5c82e76ef6b25da9ed0b805219d\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-reward:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-reward.aar\e154f5c82e76ef6b25da9ed0b805219d\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-videocommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videocommon.aar\a33ee527390ebc9b508985adcecb6cc5\AndroidManifest.xml:12:5-13:19
+MERGED from [:mobvista-9.0.0-videocommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videocommon.aar\a33ee527390ebc9b508985adcecb6cc5\AndroidManifest.xml:12:5-13:19
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:15:5-53:19
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:15:5-53:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\ba6af66884e4fb94bc1593ce898fa1f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\ba6af66884e4fb94bc1593ce898fa1f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\a54822d6394dd5eb93a5568718e93c3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\a54822d6394dd5eb93a5568718e93c3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\b31bba6431460b525800094d707e937c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\b31bba6431460b525800094d707e937c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\484559e9dcbe63996a4a7f73bb6c18d0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\484559e9dcbe63996a4a7f73bb6c18d0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1e8bdd3c4f0cb30169976771f879635e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1e8bdd3c4f0cb30169976771f879635e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\45664e464f3fe04222cc786e2dee5f37\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\45664e464f3fe04222cc786e2dee5f37\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1e1bb6c1a54ea3413ad9df4061e18846\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1e1bb6c1a54ea3413ad9df4061e18846\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.2.aar\2952372a6053782dced1469c0fe88497\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.2.aar\2952372a6053782dced1469c0fe88497\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\763c719175c06aa76165ac287ed99d20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\763c719175c06aa76165ac287ed99d20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\eb1d4e877da80fd984d019ce9fd16f97\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\eb1d4e877da80fd984d019ce9fd16f97\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\602fe31fabf8e24cf1c54a3fa13e5b15\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\602fe31fabf8e24cf1c54a3fa13e5b15\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7ad7f08f3c68940766b6ab876a501d94\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7ad7f08f3c68940766b6ab876a501d94\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.2.aar\8da4d8dd7e33a20b5af41af662ef07ed\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.2.aar\8da4d8dd7e33a20b5af41af662ef07ed\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:11:9-35
+	android:networkSecurityConfig
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:12:9-69
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:13:9-68
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:16:9-17:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:17:13-66
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:16:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:18:9-19:46
+	android:value
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:18:20-70
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:20:9-22:69
+	android:value
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:22:13-67
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:21:13-69
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:26:13-50
+activity#com.BuzzStudio.InstaEgg.PTPlayer
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:33:13-48
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:29:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.appodeal.ads.InterstitialActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:41:9-43:74
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:42:13-59
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:43:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:41:19-71
+activity#com.appodeal.ads.VideoActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:44:9-46:74
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:45:13-59
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:46:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:44:19-64
+activity#com.appodealx.mraid.MraidActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:47:9-49:73
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:49:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:47:19-67
+activity#com.appodeal.ads.VideoPlayerActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:50:9-51:79
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:51:13-77
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:50:19-70
+receiver#com.appodeal.ads.AppodealPackageAddedReceiver
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:52:9-59:20
+	android:enabled
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:52:19-79
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:56:17-78
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:56:25-75
+data
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:57:17-50
+	android:scheme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:57:23-47
+activity#com.appodeal.ads.TestActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:60:9-61:75
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:60:19-63
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:65:9-67:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:66:13-122
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:67:13-61
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:65:19-71
+activity#org.nexage.sourcekit.vast.activity.VASTActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:69:9-71:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:71:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:70:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:69:19-81
+activity#org.nexage.sourcekit.vast.activity.VPAIDActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:73:9-74:74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:74:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:73:19-82
+activity#com.appodeal.ads.networks.vpaid.VPAIDActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:76:9-77:74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:77:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:76:19-79
+activity#com.chartboost.sdk.CBImpressionActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:80:9-84:77
+	android:excludeFromRecents
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:81:13-46
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:82:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:84:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:83:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:80:19-73
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:88:9-89:61
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:89:13-59
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:88:19-82
+activity#com.applovin.adview.AppLovinConfirmationActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:90:9-91:61
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:91:13-59
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:90:19-82
+activity#com.mopub.common.privacy.ConsentDialogActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:95:9-96:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:96:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:95:19-80
+activity#com.mopub.common.MoPubBrowser
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:97:9-98:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:98:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:97:19-63
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:99:9-100:77
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:100:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:99:19-67
+activity#com.mopub.mobileads.MraidActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:101:9-102:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:102:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:101:19-67
+activity#com.mopub.mobileads.RewardedMraidActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:103:9-104:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:104:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:103:19-75
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:105:9-106:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:106:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:105:19-78
+activity#com.amazon.device.ads.AdActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:110:9-111:76
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:111:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:110:19-66
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:116:9-119:40
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:119:13-37
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:118:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:117:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:120:9-124:39
+	android:process
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:124:13-36
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:123:13-37
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:122:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:121:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:125:9-127:40
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:127:13-37
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:126:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:128:9-131:39
+	android:process
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:131:13-36
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:130:13-37
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:129:13-77
+activity#com.startapp.android.publish.ads.list3d.List3DActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:136:9-137:52
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:136:19-88
+activity#com.startapp.android.publish.adsCommon.activities.OverlayActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:139:9-141:77
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:141:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:140:13-61
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:139:19-99
+activity#com.startapp.android.publish.adsCommon.activities.FullScreenActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:143:9-145:77
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:145:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:144:13-49
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:143:19-102
+service#com.startapp.android.publish.common.metaData.PeriodicMetaDataService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:147:9-104
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:147:18-101
+service#com.startapp.android.publish.common.metaData.InfoEventService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:149:9-97
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:149:18-94
+service#com.startapp.android.publish.common.metaData.PeriodicJobService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:151:9-152:72
+	android:permission
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:152:13-69
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:151:18-96
+receiver#com.startapp.android.publish.common.metaData.BootCompleteListener
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:153:9-157:20
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:153:19-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:154:13-156:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:155:17-79
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:155:25-76
+service#com.yandex.metrica.MetricaService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:161:9-173:19
+	android:process
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:164:13-39
+	android:enabled
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:162:13-35
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:163:13-36
+	tools:ignore
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:165:13-43
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:161:18-66
+intent-filter#action:name:com.yandex.metrica.IMetricaService+category:name:android.intent.category.DEFAULT+data:scheme:metrica
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:166:13-170:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:167:17-76
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:167:27-73
+action#com.yandex.metrica.IMetricaService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:168:17-77
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:168:25-74
+meta-data#metrica:api:level
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:171:13-172:38
+	android:value
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:172:17-35
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:171:24-56
+service#com.yandex.metrica.ConfigurationService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:174:9-183:19
+	android:process
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:177:13-39
+	android:enabled
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:175:13-35
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:176:13-36
+	tools:ignore
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:178:13-43
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:174:18-72
+meta-data#metrica:configuration:api:level
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:179:13-91
+	android:value
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:179:71-88
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:179:24-70
+intent-filter#action:name:com.yandex.metrica.configuration.ACTION_START
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:180:13-182:29
+action#com.yandex.metrica.configuration.ACTION_START
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:181:17-88
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:181:25-85
+service#com.yandex.metrica.ConfigurationJobService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:184:9-188:19
+	android:process
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:187:13-39
+	android:enabled
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:185:13-35
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:185:36-60
+	android:permission
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:186:13-69
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:184:18-75
+receiver#com.yandex.metrica.MetricaEventHandler
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:189:9-196:20
+	android:enabled
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:190:13-35
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:191:13-36
+	tools:ignore
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:192:13-44
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:189:19-72
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:193:13-195:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:194:17-79
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:194:25-76
+activity#com.yandex.mobile.ads.AdActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:201:9-202:125
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:202:13-122
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:201:19-66
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:206:9-209:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:209:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:207:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:208:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:206:19-71
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:210:9-213:51
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:213:13-48
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:211:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:212:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:210:19-79
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:214:9-217:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:217:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:215:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:216:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:214:19-82
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:218:9-221:51
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:221:13-48
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:219:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:220:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:218:19-90
+activity#com.unity3d.ads2.adunit.AdUnitActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:222:9-225:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:225:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:223:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:224:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:222:19-72
+activity#com.unity3d.ads2.adunit.AdUnitSoftwareActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:226:9-229:51
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:229:13-48
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:227:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:228:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:226:19-80
+activity#com.unity3d.ads2.adunit.AdUnitTransparentActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:230:9-233:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:233:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:231:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:232:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:230:19-83
+activity#com.unity3d.ads2.adunit.AdUnitTransparentSoftwareActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:234:9-237:51
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:237:13-48
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:235:13-170
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:236:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:234:19-91
+activity#com.vungle.warren.ui.VungleActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:242:9-245:74
+	android:launchMode
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:244:13-43
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:243:13-106
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:245:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:242:19-69
+activity#com.vungle.warren.ui.VungleWebViewActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:246:9-249:74
+	android:launchMode
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:248:13-43
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:247:13-106
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:249:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:246:19-76
+activity#com.vungle.warren.ui.VungleFlexViewActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:250:9-253:74
+	android:launchMode
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:252:13-43
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:251:13-106
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:253:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:250:19-77
+activity#com.mintegral.msdk.activity.MTGCommonActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:257:9-262:75
+	android:screenOrientation
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:261:13-49
+	android:exported
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:260:13-36
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:259:13-57
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:262:13-72
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:258:13-73
+activity#com.mintegral.msdk.reward.player.MTGRewardVideoActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:263:9-266:74
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:265:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:266:13-71
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:264:13-83
+activity#com.mintegral.msdk.interstitial.view.MTGInterstitialActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:267:9-270:52
+	android:screenOrientation
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:270:13-49
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:269:13-59
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:268:13-88
+service#com.mintegral.msdk.shell.MTGService
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:271:9-275:19
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:271:18-68
+intent-filter#action:name:com.mintegral.msdk.download.action
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:272:13-274:29
+action#com.mintegral.msdk.download.action
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:273:17-77
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:273:25-74
+activity#com.tapjoy.TJAdUnitActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:280:9-283:86
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:282:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:281:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:283:13-83
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:280:19-61
+activity#com.tapjoy.mraid.view.ActionHandler
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:285:9-286:77
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:286:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:285:19-69
+activity#com.tapjoy.mraid.view.Browser
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:288:9-289:77
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:289:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:288:19-63
+activity#com.tapjoy.TJContentActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:291:9-294:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:294:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:292:13-74
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:293:13-72
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:291:19-62
+activity#com.ironsource.sdk.controller.ControllerActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:299:9-301:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:301:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:300:13-59
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:299:19-82
+activity#com.ironsource.sdk.controller.InterstitialActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:303:9-306:64
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:305:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:304:13-59
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:306:13-61
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:303:19-84
+activity#com.ironsource.sdk.controller.OpenUrlActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:308:9-311:64
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:310:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:309:13-59
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:311:13-61
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:308:19-79
+activity#com.adcolony.sdk.AdColonyInterstitialActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:316:9-318:49
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:318:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:317:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:316:19-79
+activity#com.adcolony.sdk.AdColonyAdViewActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:320:9-322:49
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:322:13-47
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:321:13-74
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:320:19-73
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:326:9-331:45
+	android:hardwareAccelerated
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:328:13-47
+	android:resizeableActivity
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:329:13-47
+	tools:ignore
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:331:13-43
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:327:13-115
+	android:theme
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:330:13-60
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:326:19-71
+activity#com.my.target.common.MyTargetActivity
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:335:9-336:125
+	android:configChanges
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:336:13-122
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:335:19-71
+supports-screens
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:340:5-344:40
+	android:largeScreens
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:341:9-36
+	android:smallScreens
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:342:9-36
+	android:normalScreens
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:344:9-37
+	android:anyDensity
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:343:9-34
+uses-feature#android.hardware.location
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:357:5-87
+	android:required
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:357:60-84
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:357:19-59
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:358:5-95
+	android:required
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:358:68-92
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:358:19-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:359:5-67
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:11:5-67
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:359:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:361:5-79
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:12:5-79
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:361:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:362:5-76
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:362:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:363:5-81
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:363:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:364:5-81
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:364:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:365:5-75
+	android:name
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml:365:22-72
+uses-sdk
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\ac080dfc508a0770f5dc05c0bf92ee0f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\ac080dfc508a0770f5dc05c0bf92ee0f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\d2e17b9da179c7419bd7803c74eb9b30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\d2e17b9da179c7419bd7803c74eb9b30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.1.2.aar\9068b1e5c93ee1b78482d0ced87f8e91\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.1.2.aar\9068b1e5c93ee1b78482d0ced87f8e91\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\e291446a2eb6e558276f2d11baf838cb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\e291446a2eb6e558276f2d11baf838cb\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a79adf8edcb91d40faf378c28eb5d921\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a79adf8edcb91d40faf378c28eb5d921\AndroidManifest.xml:20:5-43
+MERGED from [:adcolony-3.3.4:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\adcolony-3.3.4.aar\89cd87919461b5b33cfff6474690d55d\AndroidManifest.xml:8:5-11:939
+MERGED from [:adcolony-3.3.4:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\adcolony-3.3.4.aar\89cd87919461b5b33cfff6474690d55d\AndroidManifest.xml:8:5-11:939
+MERGED from [:mobvista-9.0.0-alphab:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-alphab.aar\73686aaec1cff7466aef901c24c92a92\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-alphab:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-alphab.aar\73686aaec1cff7466aef901c24c92a92\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-common:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-common.aar\565d71e3c3c4896fcd5291e82a3afe4e\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-common:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-common.aar\565d71e3c3c4896fcd5291e82a3afe4e\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-interstitial:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitial.aar\6e364240dd92524c0350f97d67eb5fba\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-interstitial:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitial.aar\6e364240dd92524c0350f97d67eb5fba\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-interstitialvideo:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitialvideo.aar\29eb6331e440a61eb2d1f443cebacf71\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-interstitialvideo:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-interstitialvideo.aar\29eb6331e440a61eb2d1f443cebacf71\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-mtgdownloads:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgdownloads.aar\73d696c6079b8b5590ae7bffc3d93874\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-mtgdownloads:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgdownloads.aar\73d696c6079b8b5590ae7bffc3d93874\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-mtgjscommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgjscommon.aar\a572a0ace9320764ad393b0db1be3f08\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-mtgjscommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgjscommon.aar\a572a0ace9320764ad393b0db1be3f08\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-mtgnative:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgnative.aar\50d09b2dc45bf5bc96d66772485b2599\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-mtgnative:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-mtgnative.aar\50d09b2dc45bf5bc96d66772485b2599\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-nativeex:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-nativeex.aar\c990969f9da7fff107f10db6e66b4b44\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-nativeex:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-nativeex.aar\c990969f9da7fff107f10db6e66b4b44\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-playercommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-playercommon.aar\695ebfa3bc53f2cc517dee8a079f729d\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-playercommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-playercommon.aar\695ebfa3bc53f2cc517dee8a079f729d\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-reward:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-reward.aar\e154f5c82e76ef6b25da9ed0b805219d\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-reward:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-reward.aar\e154f5c82e76ef6b25da9ed0b805219d\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-videocommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videocommon.aar\a33ee527390ebc9b508985adcecb6cc5\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-videocommon:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videocommon.aar\a33ee527390ebc9b508985adcecb6cc5\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobvista-9.0.0-videojs:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videojs.aar\f77bc68bc62b51009dd889e9950767e2\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobvista-9.0.0-videojs:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\mobvista-9.0.0-videojs.aar\f77bc68bc62b51009dd889e9950767e2\AndroidManifest.xml:7:5-9:41
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:7:5-9:41
+MERGED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\ba6af66884e4fb94bc1593ce898fa1f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\ba6af66884e4fb94bc1593ce898fa1f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\a54822d6394dd5eb93a5568718e93c3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\a54822d6394dd5eb93a5568718e93c3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\b31bba6431460b525800094d707e937c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\b31bba6431460b525800094d707e937c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\484559e9dcbe63996a4a7f73bb6c18d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\484559e9dcbe63996a4a7f73bb6c18d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1e8bdd3c4f0cb30169976771f879635e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1e8bdd3c4f0cb30169976771f879635e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\45664e464f3fe04222cc786e2dee5f37\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\45664e464f3fe04222cc786e2dee5f37\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1e1bb6c1a54ea3413ad9df4061e18846\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1e1bb6c1a54ea3413ad9df4061e18846\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.2.aar\2952372a6053782dced1469c0fe88497\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.2.aar\2952372a6053782dced1469c0fe88497\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\763c719175c06aa76165ac287ed99d20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\763c719175c06aa76165ac287ed99d20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\eb1d4e877da80fd984d019ce9fd16f97\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\eb1d4e877da80fd984d019ce9fd16f97\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\602fe31fabf8e24cf1c54a3fa13e5b15\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\602fe31fabf8e24cf1c54a3fa13e5b15\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7ad7f08f3c68940766b6ab876a501d94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7ad7f08f3c68940766b6ab876a501d94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\aa5e313962dc331b2f3534af21b656d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.2.aar\8da4d8dd7e33a20b5af41af662ef07ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.2.aar\8da4d8dd7e33a20b5af41af662ef07ed\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.1.2.aar\9068b1e5c93ee1b78482d0ced87f8e91\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stoic\Documents\egg_game_v69\android\app\src\main\AndroidManifest.xml
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:13:22-75
+service#io.presage.PSD
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:17:13-42
+activity#io.presage.EulaActivity
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:22:9-25:75
+	android:configChanges
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:24:13-83
+	android:theme
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:23:13-51
+receiver#io.presage.receiver.AlarmReceiver
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:27:9-70
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:27:19-67
+receiver#io.presage.common.profig.schedule.ProfigAlarmReceiver
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:28:9-90
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:28:19-87
+service#io.presage.common.profig.schedule.ProfigSyncIntentService
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:31:13-85
+service#io.presage.common.profig.schedule.ProfigJobService
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:33:9-36:72
+	android:exported
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:34:13-78
+activity#io.presage.interstitial.InterstitialActivity
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:38:9-41:55
+	android:configChanges
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:39:13-72
+activity#io.presage.interstitial.InterstitialTransparentActivity
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:42:9-45:67
+	android:configChanges
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:45:13-64
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:43:13-83
+activity#io.presage.mraid.browser.ShortcutActivity
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:46:9-52:20
+	android:theme
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:47:13-69
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [:ogury-3.0.13:] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\ogury-3.0.13.aar\a571d877f7e1716108b6e8cce043cde9\AndroidManifest.xml:49:13-51:29
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.0.4.aar\b335ca4d4cb85661649aea44de5ec524\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\db2698d76599a5a53f9912fd1c98738d\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\e3c3664acefd064ab50d5eb6ce59e558\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\e8c33602bd42a5a0c28a89358ee94c54\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\f46172f7ad994fa4baedb633fad549b5\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6b953c59076db46cd7f194bbcb47b009\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\71ba746699cae2c9e26d56a970f9810f\AndroidManifest.xml:11:13-77
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.1.2.aar\0ecbede65d0a494330597c2b8e53e81b\AndroidManifest.xml:36:13-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ad41bab799c2c2b41b79f56d92554548\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97395485c18345d1f1f1ff8ab7e61d26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567e229d15cdfa1629c72f81b15247c8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2d03b2720e1495dc2d897c862228a0b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c256970ef9843ca5cf1a0661bd2337b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\74b16910d74a7773b4d1e0b5b34b77ad\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e16175d015bfff3ab7f3b7f34f285d3a\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stoic\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\408dcff8243d33b62d6f927cf45d2128\AndroidManifest.xml:26:13-58

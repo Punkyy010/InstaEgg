@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :mobvista-9.0.0-nativeex:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-nativeex.aar/c990969f9da7fff107f10db6e66b4b44/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-nativeex.aar/c990969f9da7fff107f10db6e66b4b44/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobvista-9.0.0-nativeex.aar/c990969f9da7fff107f10db6e66b4b44/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

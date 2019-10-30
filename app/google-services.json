@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "47298297989",
+    "firebase_url": "https://instaegg-61783732.firebaseio.com",
+    "project_id": "instaegg-61783732",
+    "storage_bucket": "instaegg-61783732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47298297989:android:fb54664adcbd547f",
+        "android_client_info": {
+          "package_name": "com.BuzzStudio.InstaEgg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47298297989-l9vh5i9tboetgdur65varorn09cflqrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BuzzStudio.InstaEgg",
+            "certificate_hash": "cc1d3f5d9d53cd65eb94aead5447c85668f85e26"
+          }
+        },
+        {
+          "client_id": "47298297989-g3j2stc2nnaae181olb1uk7qujmhs4c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-8PBW6oykzrIkW3p08vm_WvBurDXyqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47298297989-g3j2stc2nnaae181olb1uk7qujmhs4c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7343938944898532~8553023075"
+    }
+  ],
+  "configuration_version": "1"
+}
